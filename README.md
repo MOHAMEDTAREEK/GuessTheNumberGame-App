@@ -9,10 +9,11 @@ The app was created using 'ReactNative' for it's flexibility to work with androi
 3-react native.
 4-expo.
 -How to install and run the project:
-1- It's preferd to run the project using expo version "~44.0.0" to get the best experince you can install it using command "npm install --global expo-cli
+1-make sure to install all the packages needed for the project by using 'npm install' command in your terminal.
+2- It's preferd to run the project using expo version "~44.0.0" to get the best experince you can install it using command "npm install --global expo-cli
 ".
-2-you can run the project using the command "npm start" in the terminal.
-3-run the project using expo-go app or desktop emulator 'scan the QR if using expo-go app or type 'a' for android and 'i' for ios in the terminal for emulator '.
+3-you can run the project using the command "npm start" in the terminal.
+4-run the project using expo-go app or desktop emulator 'scan the QR if using expo-go app or type 'a' for android and 'i' for ios in the terminal for emulator '.
 -How to use the project :
 1-After running the project you will be able to add a number between 1-99 through the textinput section .
 2-You can either confirm your input or reset it 'hint: try to add a non-positive number or empty text'.
